@@ -4,8 +4,6 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ## Vu3 hook
 
-- ref 比 reactive 好用，reactive有变量定义 数组视图不更新问题。
-  ref 二次赋值 要在变量后 .value =
 
 - onMounted 页面初始化需要挂载时候使用
 
@@ -51,16 +49,8 @@ import { app, BrowserWindow, ipcMain } from "electron";
 
   });
 ```
-
-### 示波器
-```
-USB0::0xF4EC::0x1102::SDG2XCAD3R2618::INSTR
-```
-
-### 信号发生器
-```
-USB0::0x2A8D::0x1762::MY59241493::INSTR
-```
+## API 接口请参考src/api 文件夹下的JS 文件
+核心逻辑在src/api/config.js中，其他文件参考src/api/device.js
 
 # 操作步聚
 
