@@ -1,0 +1,19 @@
+{
+  "productName": "云算力",
+  "files": [
+    "./dist",
+    "./build",
+    "./electron/preload.js",
+    "./electron/main.js",
+    "./package.json",
+    "./index.html",
+    "./main.js"
+  ],
+  "icon": "./public/favicon.ico",
+  "appId": "com.xxx.app",
+  "asar": true,
+  "copyright": "Copyright © 2022 smallpig",
+  "directories": {
+    "output": "./zip"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "4200252",
+  "name": "云算力",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1304875",
+      "name": "减",
+      "font_class": "jian",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "1304876",
+      "name": "监控",
+      "font_class": "jiankong",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "1304879",
+      "name": "帮助",
+      "font_class": "bangzhu",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "1305472",
+      "name": "任务",
+      "font_class": "renwu1",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "29973096",
+      "name": "详情",
+      "font_class": "a-zujiantianchong_huaban1fuben22",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "7095423",
+      "name": "设置_line",
+      "font_class": "set-up_line",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "7095676",
+      "name": "设置_fill",
+      "font_class": "set-up_fill",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "7538862",
+      "name": "窗口-最大化_line",
+      "font_class": "window-max_line",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "7539812",
+      "name": "窗口-窗口化_line",
+      "font_class": "window-window_line",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "7541676",
+      "name": "窗口-最小化_line",
+      "font_class": "window-min_line",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "13123474",
+      "name": "icon-close",
+      "font_class": "icon-close",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
